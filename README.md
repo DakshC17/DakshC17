@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Daksh 👋</h1>
 
-<h3 align="center">Backend Developer | Web3 Enthusiast</h3>
+<h3 align="center">Backend Developer | Gen AI Developer | AI Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/[Your GitHub Username]">
