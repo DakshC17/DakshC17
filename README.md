@@ -1,5 +1,5 @@
 <p align="left">
-  <a href="https://www.linkedin.com/in/daksh-choudhary/">
+  <a href="https://www.linkedin.com/in/daksh-choudhary-18336b249/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
  <a href = "https://twitter.com/DakshC17" >
