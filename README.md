@@ -5,9 +5,7 @@
  <a href = "https://twitter.com/DakshC17" >
   <img src = "https://skillicons.dev/icons?i=twitter" />
  </a>
-  <a href = "https://www.instagram.com/_.daksh._.009._/" >
-    <img src = "https://skillicons.dev/icons?i=instagram" />
-  </a>
+  
    
 </p>
 
