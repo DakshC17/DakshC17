@@ -3,7 +3,13 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=440&lines=AI+Engineer+%7C+Generative+AI+Builder;RAG+Pipelines+and+Agentic+Workflows;Lifelong+Learner+%F0%9F%8C%9F" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Generative+AI+Builder;Building+RAG+Pipelines+%26+Agentic+AI+Workflows;Lifelong+Learner+%F0%9F%8C%9F" alt="Typing SVG">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:2e2e2e,100:000000&height=150&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=28&fontColor=ffffff" alt="Banner" />
 </p>
 
 <p align="center">
@@ -18,7 +24,7 @@
 ---
 
 ## ✨ About Me
-- 🔭 Building **AI products**, **RAG pipelines**, **Agentic AI workflows**
+- 🔭 Building **AI products**, **RAG pipelines**, **agentic workflows**
 - 🌱 Exploring **Generative AI**, **LLMs**, **Vector DBs**, **Web3**, **n8n**
 - ⚡ Passionate about open source, automation & creative problem-solving
 
@@ -43,6 +49,13 @@
 
 ---
 
+## 🌟 Fun Facts
+- 🧩 I love building **agentic workflows** that automate research & creative work
+- ☕ Big fan of clean code, strong coffee & late-night debugging
+- ✍️ Believe in **learning by building & sharing**
+
+---
+
 ## 📬 Connect with Me
 <p align="center">
   <a href="mailto:dakshchoudhary1729@gmail.com">
@@ -56,4 +69,4 @@
   </a>
 </p>
 
-<p align="center">⭐ If you like my work, star some repos & say hi! 🚀</p>
+<p align="center">⭐ If you like my work, drop a ⭐ on my repos & say hi! 🚀</p>
