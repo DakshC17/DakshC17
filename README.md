@@ -1,9 +1,9 @@
 <h1 align="center">
-  Hey there <img src="https://raw.githubusercontent.com/DakshC17/DakshC17/main/assets/wave.gif" width="30px">, I'm Daksh Choudhary
+  Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Daksh Choudhary
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Generative+AI+Builder;Building+RAG+Pipelines+%26+Agentic+AI+Workflows;Lifelong+Learner+%F0%9F%8C%9F" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Building+RAG+Pipelines+%26+Agentic+AI;Generative+AI+Enthusiast;Lifelong+Learner+%F0%9F%8C%9F" alt="Typing SVG">
 </p>
 
 ---
@@ -16,8 +16,8 @@
   <a href="https://www.linkedin.com/in/daksh-choudhary-18336b249/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/DakshC17">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/>
+  <a href="https://x.com/DakshC17">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="X"/>
   </a>
 </p>
 
@@ -49,24 +49,17 @@
 
 ---
 
-## 🌟 Fun Facts
-- 🧩 I love building **agentic workflows** that automate research & creative work
-- ☕ Big fan of clean code, strong coffee & late-night debugging
-- ✍️ Believe in **learning by building & sharing**
-
----
-
 ## 📬 Connect with Me
 <p align="center">
-  <a href="mailto:dakshchoudhary1729@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dakshchoudhary1729%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  <a href="mailto:dakshc1709@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dakshc1709%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/daksh-choudhary-18336b249/">
     <img src="https://img.shields.io/badge/LinkedIn-Daksh%20Choudhary-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/DakshC17">
-    <img src="https://img.shields.io/badge/Twitter-@DakshC17-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"/>
+  <a href="https://x.com/DakshC17">
+    <img src="https://img.shields.io/badge/X-@DakshC17-000000?style=for-the-badge&logo=twitter" alt="X"/>
   </a>
 </p>
 
-<p align="center">⭐ If you like my work, drop a ⭐ on my repos & say hi! 🚀</p>
+<p align="center">⭐ If you like my work, drop a ⭐ & connect! 🚀</p>
