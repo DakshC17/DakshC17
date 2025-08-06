@@ -20,9 +20,6 @@
     <img src="https://skillicons.dev/icons?i=twitter" alt="X"/>
   </a>
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DakshC17/DakshC17/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 
 ---
