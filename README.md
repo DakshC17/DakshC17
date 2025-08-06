@@ -55,6 +55,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=DakshC17&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DakshC17&theme=tokyonight" />
+</p>
+
 
 
 ---
