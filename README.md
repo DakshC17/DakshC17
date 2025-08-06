@@ -51,6 +51,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DakshC17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DakshC17&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+
 
 ---
 
