@@ -37,15 +37,20 @@
 
 ---
 
-## 📊 Stats & Activity
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DakshC17&theme=dark&hide_border=false" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=DakshC17&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DakshC17&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DakshC17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DakshC17&style=flat-square&color=blue" alt="Visitor count"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DakshC17&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DakshC17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
 
 ---
 
