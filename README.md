@@ -77,4 +77,4 @@
   </a>
 </p>
 
-<p align="center">⭐ If you like my work, drop a ⭐ & connect! 🚀</p>
+<p align="center">⭐ If you like my work, drop a ⭐ & connect! </p>
