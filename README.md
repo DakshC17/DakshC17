@@ -19,7 +19,14 @@
   <a href="https://x.com/DakshC17">
     <img src="https://skillicons.dev/icons?i=twitter" alt="X"/>
   </a>
+<a href="https://www.reddit.com/user/Daksh1709/">
+    <img src="https://cdn.simpleicons.org/reddit/FF4500" alt="Reddit" width="48"/>
+  </a>
+  <a href="mailto:dakshc1709@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+  </a>
 </p>
+
 
 
 ---
