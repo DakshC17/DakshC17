@@ -25,6 +25,10 @@
   <a href="mailto:dakshc1709@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
   </a>
+  </a>
+  <a href="https://leetcode.com/u/DakshC17/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="48"/>
+  </a>
 </p>
 
 
