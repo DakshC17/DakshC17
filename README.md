@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Generative+AI+Builder;Building+Agentic+AI+Workflows+%26+RAG+Pipelines;Building+SaaS+Products+with+Generative+AI+%F0%9F%9A%80" alt="Typing SVG">
 </p>
-
 ---
 
 <p align="center">
