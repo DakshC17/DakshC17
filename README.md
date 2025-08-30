@@ -54,22 +54,25 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DakshC17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DakshC17&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DakshC17&theme=tokyonight" alt="Summary Stats" />
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DakshC17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DakshC17&theme=tokyonight" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DakshC17&theme=tokyonight" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DakshC17&theme=tokyonight" alt="Profile Details" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DakshC17&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DakshC17&theme=tokyonight" />
