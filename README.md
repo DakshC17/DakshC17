@@ -9,7 +9,7 @@
   </p>
   <p>
     <a href="https://github.com/DakshC17">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=14&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Generative+AI+Builder;Building+Agentic+AI+Workflows+%26+RAG+Pipelines;Building+SaaS+Products+with+Generative+AI+%F0%9F%9A%80" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Generative+AI+Builder;Building+Agentic+AI+Workflows+%26+RAG+Pipelines;Building+SaaS+Products+with+Generative+AI+%F0%9F%9A%80" alt="Typing SVG" />
     </a>
   </p>
 </div>
@@ -22,29 +22,28 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daksh-choudhary-18336b249/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/DakshC17">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    <img src="https://skillicons.dev/icons?i=twitter" alt="X"/>
   </a>
   <a href="https://www.reddit.com/user/Daksh1709/">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
+    <img src="https://cdn.simpleicons.org/reddit/FF4500" alt="Reddit" width="48"/>
   </a>
   <a href="mailto:dakshc1709@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
   </a>
   <a href="https://leetcode.com/u/DakshC17/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="48"/>
   </a>
   <a href="https://github.com/DakshC17">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
   </a>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DakshC17&label=Profile%20Views&color=a855f7&style=flat" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/DakshC17?label=Followers&style=flat&color=a78bfa&labelColor=0d1117&logo=github&logoColor=white" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/DakshC17?label=Stars&style=flat&color=FFD700&labelColor=0d1117&logo=apache-spark&logoColor=white" alt="Stars"/>
 </p>
@@ -217,7 +216,7 @@ To build **impactful AI products** that solve real problems — bridging cutting
 ---
 
 <details open>
-  <summary><h2>🟡 Contribution Graph</h2></summary>
+  <summary><h2>🟡 Pacman Contribution Graph</h2></summary>
 
   <br>
 
