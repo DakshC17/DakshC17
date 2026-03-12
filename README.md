@@ -216,7 +216,7 @@ To build **impactful AI products** that solve real problems — bridging cutting
 ---
 
 <details open>
-  <summary><h2>🟡 Pacman Contribution Graph</h2></summary>
+  <summary><h2>🟡 Contribution Graph</h2></summary>
 
   <br>
 
