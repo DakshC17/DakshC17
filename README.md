@@ -160,8 +160,81 @@ To build **impactful AI products** that solve real problems — bridging cutting
 ---
 
 <!--START_SECTION:waka-->
-<!-- This section is auto-updated by the WakaTime GitHub Action -->
-<!-- After setup, your coding stats will appear here automatically -->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.38%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 274 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 38 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                75 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+🌆 Daytime                405 commits         ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
+🌃 Evening                640 commits         ██████████░░░░░░░░░░░░░░░   41.08 % 
+🌙 Night                  438 commits         ███████░░░░░░░░░░░░░░░░░░   28.11 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   202 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Tuesday                  193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Wednesday                249 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Thursday                 289 commits         █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+Friday                   199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Saturday                 202 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Sunday                   224 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   28 repos            ██████████████░░░░░░░░░░░   56.00 % 
+TypeScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/DakshC17/DakshC17/main/assets/bar_graph.png)
+
+
+ Last Updated on 21/03/2026 13:40:52 UTC
 <!--END_SECTION:waka-->
 
 ---
