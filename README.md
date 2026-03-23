@@ -160,17 +160,17 @@ To build **impactful AI products** that solve real problems — bridging cutting
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.38%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.41%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 274 Contributions in the Year 2026
+> 🏆 275 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -181,21 +181,21 @@ To build **impactful AI products** that solve real problems — bridging cutting
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                75 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-🌆 Daytime                405 commits         ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
-🌃 Evening                640 commits         ██████████░░░░░░░░░░░░░░░   41.08 % 
-🌙 Night                  438 commits         ███████░░░░░░░░░░░░░░░░░░   28.11 % 
+🌞 Morning                75 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+🌆 Daytime                418 commits         ███████░░░░░░░░░░░░░░░░░░   26.17 % 
+🌃 Evening                642 commits         ██████████░░░░░░░░░░░░░░░   40.20 % 
+🌙 Night                  462 commits         ███████░░░░░░░░░░░░░░░░░░   28.93 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   202 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Tuesday                  193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Wednesday                249 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Thursday                 289 commits         █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-Friday                   199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Saturday                 202 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Sunday                   224 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Monday                   205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Tuesday                  195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Wednesday                253 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Thursday                 306 commits         █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+Friday                   208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Saturday                 202 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Sunday                   228 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
 ```
 
 
@@ -205,16 +205,16 @@ Sunday                   224 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      25 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  25 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+dsa                      25 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    25 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -234,7 +234,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DakshC17/DakshC17/main/assets/bar_graph.png)
 
 
- Last Updated on 22/03/2026 12:42:59 UTC
+ Last Updated on 23/03/2026 01:56:02 UTC
 <!--END_SECTION:waka-->
 
 ---
