@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/daksh-choudhary-18336b249/">
+  <a href="https://www.linkedin.com/in/dakshc17/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/DakshC17">
