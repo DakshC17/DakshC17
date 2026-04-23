@@ -205,19 +205,16 @@ Sunday                   265 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   19 mins             ██████████████░░░░░░░░░░░   54.66 % 
-Bash                     13 mins             ██████████░░░░░░░░░░░░░░░   38.71 % 
-Git Config               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sysai                    35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -237,7 +234,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DakshC17/DakshC17/main/assets/bar_graph.png)
 
 
- Last Updated on 22/04/2026 13:19:49 UTC
+ Last Updated on 23/04/2026 02:12:30 UTC
 <!--END_SECTION:waka-->
 
 ---
