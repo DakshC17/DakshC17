@@ -205,20 +205,16 @@ Sunday                   292 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Docker                   21 mins             ███████████████████░░░░░░   74.65 % 
-Text                     5 mins              █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-codeeditor               28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -238,7 +234,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DakshC17/DakshC17/main/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2026 13:24:58 UTC
+ Last Updated on 09/05/2026 02:32:32 UTC
 <!--END_SECTION:waka-->
 
 ---
