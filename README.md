@@ -160,8 +160,6 @@ To build **impactful AI products** that solve real problems — bridging cutting
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2041%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.67%20million%20lines%20of%20code-blue?style=flat)
@@ -178,45 +176,6 @@ To build **impactful AI products** that solve real problems — bridging cutting
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                112 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-🌆 Daytime                508 commits         ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
-🌃 Evening                692 commits         ████████░░░░░░░░░░░░░░░░░   33.54 % 
-🌙 Night                  751 commits         █████████░░░░░░░░░░░░░░░░   36.40 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Tuesday                  227 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Wednesday                335 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Thursday                 469 commits         ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-Friday                   283 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Saturday                 209 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Sunday                   293 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Markdown                 14 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-writr                    14 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    14 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -234,7 +193,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DakshC17/DakshC17/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2026 14:01:41 UTC
+ Last Updated on 15/05/2026 02:45:51 UTC
 <!--END_SECTION:waka-->
 
 ---
