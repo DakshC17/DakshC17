@@ -160,9 +160,9 @@ To build **impactful AI products** that solve real problems — bridging cutting
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2015%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.76%20million%20lines%20of%20code-blue?style=flat)
 
@@ -178,52 +178,6 @@ To build **impactful AI products** that solve real problems — bridging cutting
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                113 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-🌆 Daytime                518 commits         ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
-🌃 Evening                733 commits         ████████░░░░░░░░░░░░░░░░░   33.73 % 
-🌙 Night                  809 commits         █████████░░░░░░░░░░░░░░░░   37.23 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   249 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Tuesday                  229 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-Wednesday                372 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-Thursday                 488 commits         ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
-Friday                   329 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Saturday                 211 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Sunday                   295 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   1 hr 34 mins        █████████░░░░░░░░░░░░░░░░   37.86 % 
-Other                    44 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-JSON                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-Bash                     39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-TypeScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 10 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-policy_agent             3 hrs 1 min         ██████████████████░░░░░░░   72.61 % 
-scrapy                   42 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-refund-agent-system      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-frontend                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-
-💻 Operating System: 
-Linux                    4 hrs 10 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -241,7 +195,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DakshC17/DakshC17/main/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2026 02:43:49 UTC
+ Last Updated on 30/05/2026 13:21:53 UTC
 <!--END_SECTION:waka-->
 
 ---
