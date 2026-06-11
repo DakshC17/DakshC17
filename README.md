@@ -162,7 +162,7 @@ To build **impactful AI products** that solve real problems — bridging cutting
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.76%20million%20lines%20of%20code-blue?style=flat)
 
@@ -234,7 +234,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DakshC17/DakshC17/main/assets/bar_graph.png)
 
 
- Last Updated on 10/06/2026 02:58:14 UTC
+ Last Updated on 11/06/2026 03:33:11 UTC
 <!--END_SECTION:waka-->
 
 ---
