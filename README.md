@@ -160,7 +160,7 @@ To build **impactful AI products** that solve real problems — bridging cutting
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
 
@@ -205,17 +205,18 @@ Sunday                   301 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   49 mins             ███████████████████████░░   92.24 % 
-TOML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Python                   1 hr 3 mins         ███████████████████████░░   93.44 % 
+TOML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
 
 🔥 Editors: 
-VS Code                  53 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-backtesting-strategy     53 mins             █████████████████████████   100.00 % 
+backtesting-strategy     53 mins             ███████████████████░░░░░░   77.96 % 
+graph-rag                15 mins             ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
 
 💻 Operating System: 
-Linux                    53 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -235,7 +236,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DakshC17/DakshC17/main/assets/bar_graph.png)
 
 
- Last Updated on 18/06/2026 15:00:50 UTC
+ Last Updated on 19/06/2026 03:54:17 UTC
 <!--END_SECTION:waka-->
 
 ---
