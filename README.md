@@ -1,6 +1,7 @@
 <div align="center">
   <h1> 
     <strong>Hey</strong>
+
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="wave">
     <strong>I'm Daksh Choudhary</strong>
   </h1>
